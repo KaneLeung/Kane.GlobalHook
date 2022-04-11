@@ -353,4 +353,4 @@ MigrationBackup/
 .ionide/
 
 # My Ignore
-*.snk
+#*.snk
